@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://fomatevi.github.io/sitemap/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/itb/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/tVk/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/Vvi/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/glm/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/WZG/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/WNT/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/hHF/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/GYs/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/blm/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/EqN/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/rcb/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/BaT/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/RCv/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/hIl/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/lgu/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/hiR/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/Cks/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/Tsx/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/bJD/sitemap_index.fomatevi
+Sitemap: https://fomatevi.github.io/JdB/sitemap_index.fomatevi
